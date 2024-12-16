@@ -1,2 +1,1 @@
-# AI Project
-t
+# AI Projectt
