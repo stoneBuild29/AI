@@ -22,4 +22,4 @@
 
 1. compose rag
 
-   ![CleanShot 2025-03-06 at 22.40.58@2x](/Users/scarlet/Library/Application Support/CleanShot/media/media_BK46Ph9a5m/CleanShot 2025-03-06 at 22.40.58@2x.png)
+   ![CleanShot 2025-03-06 at 22.40.58@2x](https://cdn.statically.io/gh/stoneBuild29/MyPictures@main/upload/CleanShot%202025-03-06%20at%2022.40.58%402x.png)
